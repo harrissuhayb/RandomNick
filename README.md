@@ -13,9 +13,12 @@ The nickname is built from printable ASCII characters, specifically the 94 chara
 ## Usage
 
 1. Right-click target server icon in the sidebar.
-2. Toggle **Start Random Nick** in the context menu.
+2. Toggle **Start Random Nick** in the context menu to start.
+
 ![start](visuals/start.png)
-3. Toggle **Stop Random Nick** in the context menu.
+
+3. Toggle **Stop Random Nick** in the context menu to stop.
+
 ![stop](visuals/stop.png)
 
 You can have it running in multiple servers at the same time.
