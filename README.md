@@ -21,14 +21,19 @@ You can have it running in multiple servers at the same time.
 ## Installation
 
 1. Place the `RandomNick-main` folder in your Vencord userplugins folder:
+
     ```
     Vencord/src/userplugins/RandomNick-main
     ```
+
 2. Rebuild Vencord:
+
     ```
     pnpm build
     ```
+
 3. Restart Discord. 
+
 4. In Discord, navigate to **User Settings > Vencord > Plugins**, search for `RandomNick` and enable it.
 
 ## License
